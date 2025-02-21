@@ -20,9 +20,9 @@ public class Main {
         float propertyFloat1 = 27.12f;
         long propertyLong = 987_678_965_549L;
         float propertyFloat2 = 2.786f;
-        char propertyChar = 569;
-        int propertyInt1 = -159;
-        int propertyInt2 = 27897;
+        char propertyChar1 = 569;
+        short propertyShort = -159;
+        char propertyChar2 = 27897;
         byte propertyByte = 67;
 
 
